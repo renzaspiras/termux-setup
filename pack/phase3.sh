@@ -8,3 +8,6 @@ pip install neovim
 gem install neovim
 gem environment
 npm install -g neovim
+
+#If it is finished?
+printf "\nPhase 3 Finished\n"

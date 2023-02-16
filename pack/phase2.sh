@@ -26,3 +26,10 @@ luarocks install ansicolors
 git clone https://github.com/Yisus7u7/changelua.git
 cd changelua
 make install
+
+#Installing Perl
+printf "\nInstalling Perl\n"
+pkg install perl
+
+#If it is finished?
+printf "\nPhase 2 Finished\n"
