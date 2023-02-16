@@ -25,3 +25,11 @@
     ```
 
 That's it! After running these commands, the project should be installed and ready to use. If you encounter any issues during the installation process, please refer to the project documentation or seek assistance from the project community.
+
+#Installation Overview
+    ```
+    pkg install git
+    git clone https://github.com/renzaspiras/termux-setup.git
+    cd termux-setup
+    bash install.sh
+    ```
