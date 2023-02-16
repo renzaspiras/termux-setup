@@ -13,3 +13,6 @@ pkg install root-repo
 pkg install x11-repo
 pkg install git
 pkg install tree
+
+#If it is finished?
+printf "\nPhase 1 Finished\n"
