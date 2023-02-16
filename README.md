@@ -37,3 +37,11 @@ rm -r termux-setup
 
 
 These commands will navigate up one directory level and then remove the "termux-setup" directory, which contains the installation script and other files for this repository. Note that if you remove the "termux-setup" directory, you will not be able to re-run the installation script or make use of any of the files contained within it.
+
+## Command Overview
+```
+pkg install git
+git clone https://github.com/renzaspiras/termux-setup.git
+cd termux-setup
+bash install.sh
+```
