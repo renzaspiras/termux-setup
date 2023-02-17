@@ -1,3 +1,5 @@
+**Note:** This project has only been tested and confirmed to work on Termux, and may not work on other platforms.
+
 ## Installation
 
 1. Install the Git package by running the following command in your terminal:
