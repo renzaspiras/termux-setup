@@ -1,3 +1,6 @@
+#Phase 0
+cd
+
 #Phase 1
 bash pack/phase1.sh
 
