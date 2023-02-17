@@ -11,7 +11,8 @@ npm install -g neovim
 
 printf "\nConfiguring Neovim like VS Code\n"
 #lua script
-cp -r pack/asset/.config ~/.config
+#cp -r pack/asset/.config ~/.config
+cp -r pack/asset/.config/* ~/.config/
 
 #If it is finished?
 printf "\nPhase 3 Finished\n"
