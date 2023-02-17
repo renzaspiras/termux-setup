@@ -35,6 +35,7 @@ local ensure_packer = function()
     use("nvim-tree/nvim-tree.lua")
 
     -- vs-code like icons
+    use "Mofiqul/vscode.nvim"
     use("nvim-tree/nvim-web-devicons")
 
     -- statusline

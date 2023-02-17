@@ -49,3 +49,8 @@ bash install.sh
 cd ..
 rm -r termux-setup
 ```
+
+## Update
+```
+update.sh
+```
