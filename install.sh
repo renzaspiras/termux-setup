@@ -1,6 +1,6 @@
 #Phase 0
-touch ~/.termux/font.otf
-cp pack/asset/font/font.otf ~/.termux/font.otf
+touch ~/.termux/font.ttf
+cp pack/asset/font/font.ttf ~/.termux/font.ttf
 
 #Phase 1
 bash pack/phase1.sh
