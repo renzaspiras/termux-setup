@@ -9,7 +9,7 @@ printf "\nInstalling Java...\n"
 pkg install openjdk-17
 
 #Installing Ruby
-printf "\nInstalling Ruby\n"
+printf "\nInstalling Ruby...\n"
 pkg install ruby
 
 #Installing Nodejs
@@ -28,8 +28,12 @@ cd changelua
 make install
 
 #Installing Perl
-printf "\nInstalling Perl\n"
+printf "\nInstalling Perl...\n"
 pkg install perl
+
+#Installing Rust
+printf "\nInstalling Rust...\n"
+pkg install rust
 
 #If it is finished?
 printf "\nPhase 2 Finished\n"
