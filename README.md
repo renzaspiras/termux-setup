@@ -51,6 +51,7 @@ rm -r termux-setup
 ```
 
 ## Update
+This project provides an update script for quickly and easily updating packages in Termux. Simply run the included `update.sh` script to update all installed packages and keep your system up to date.
 ```
 update.sh
 ```
