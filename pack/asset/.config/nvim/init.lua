@@ -4,3 +4,8 @@ require "aspiras.core.keymaps"
 require "aspiras.plugins.nvim-tree"
 require "aspiras.core.colorscheme"
 require "aspiras.plugins.lualine"
+
+require "aspiras.plugins.lsp.lspconfig"
+require "aspiras.plugins.lsp.lspsaga"
+require "aspiras.plugins.lsp.null-ls"
+require "aspiras.plugins.lsp.mason"

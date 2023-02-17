@@ -12,5 +12,7 @@ keymap.set("n", "<leader>nh", ":nohl<CR>")
 -- delete single character without copying into register
 keymap.set("n", "x", '"_x')
 
+keymap.set("n", "<leader>to", ":tabnew<CR>") -- open new tab
+
 -- nvim-tree
 keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>") -- toggle file explorer
