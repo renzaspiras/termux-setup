@@ -1,6 +1,5 @@
 #Phase 0
-touch ~/.termux/font.ttf
-cp pack/asset/font/font.ttf ~/.termux/font.ttf
+bash pack/phase0.sh
 
 #Phase 1
 bash pack/phase1.sh
