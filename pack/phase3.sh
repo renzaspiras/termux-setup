@@ -13,7 +13,7 @@ printf "\nConfiguring Neovim like VS Code\n"
 #lua script
 cd
 mkdir .config
-cp pack/asset/nvim/ .config/nvim/
+cp -r pack/asset/nvim/ ~/.config/nvim/
 
 #If it is finished?
 printf "\nPhase 3 Finished\n"
