@@ -10,3 +10,5 @@ require "aspiras.plugins.lsp.mason"
 require "aspiras.plugins.lsp.lspsaga"
 require "aspiras.plugins.lsp.lspconfig"
 require "aspiras.plugins.lsp.null-ls"
+
+require "aspiras.plugins.term"
