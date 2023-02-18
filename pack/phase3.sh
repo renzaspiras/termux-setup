@@ -8,6 +8,8 @@ pip install neovim
 gem install neovim
 gem environment
 npm install -g neovim
+cargo install stylua --root ./rust_modules --version 0.9.2
+cargo install eureka --root ./rust_modules --version 1.6.2
 
 printf "\nConfiguring Neovim like VS Code\n"
 #lua script
