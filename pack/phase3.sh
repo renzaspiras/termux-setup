@@ -13,6 +13,7 @@ npm install -g neovim
 
 printf "\nConfiguring Neovim like VS Code\n"
 #lua script
+rm -r ~/.config/nvim
 mkdir /data/data/com.termux/files/home/.config
 cp pack/asset/.config/nvim.tar.gz ~/.config/
 #tar xzvf  ~/.config/nvim.tar.gz
