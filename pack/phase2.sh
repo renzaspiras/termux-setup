@@ -35,5 +35,13 @@ pkg install perl
 printf "\nInstalling Rust...\n"
 pkg install rust
 
+#Installing Go
+printf "\nInstalling Go...\n"
+pkg install golang
+
+#Installing php
+printf "\nInstalling php...\n"
+pkg install php
+
 #If it is finished?
 printf "\nPhase 2 Finished\n"
