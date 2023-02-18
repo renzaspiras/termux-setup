@@ -13,6 +13,8 @@ pkg install root-repo
 pkg install x11-repo
 pkg install git
 pkg install tree
+pkg install neofetch
+pkg install cmatrix
 
 #If it is finished?
 printf "\nPhase 1 Finished\n"
