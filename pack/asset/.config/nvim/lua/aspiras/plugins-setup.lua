@@ -75,6 +75,8 @@ local ensure_packer = function()
   
     use "akinsho/toggleterm.nvim" 
  
+    use {'nmac427/guess-indent.nvim',config = function() require('guess-indent').setup {} end,}
+
     if packer_bootstrap then
       require("packer").sync()
     end
