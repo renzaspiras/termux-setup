@@ -23,7 +23,7 @@
 4. Run the install.sh script to install the necessary packages and configurations:
 
     ```
-    bash install.sh
+    yes | bash install.sh
     ```
 
 That's it! After running these commands, the project should be installed and ready to use. If you encounter any issues during the installation process, please refer to the project documentation or seek assistance from the project community.
@@ -45,7 +45,7 @@ These commands will navigate up one directory level and then remove the "termux-
 pkg install git
 git clone https://github.com/renzaspiras/termux-setup.git
 cd termux-setup
-bash install.sh
+yes | bash install.sh
 cd ..
 rm -r termux-setup
 ```
