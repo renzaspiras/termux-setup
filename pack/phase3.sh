@@ -15,7 +15,7 @@ printf "\nConfiguring Neovim like VS Code\n"
 #cp -r pack/asset/.config/* ~/.config/
 mkdir /data/data/com.termux/files/home/.config
 cp pack/asset/.config/nvim.tar.gz ~/.config/
-tar ~/.config/xzvf nvim.tar.gz
+tar xzvf  ~/.config/nvim.tar.gz
 rm ~/.config/nvim.tar.gz
 
 #If it is finished?
