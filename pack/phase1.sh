@@ -18,6 +18,7 @@ pkg install cmatrix
 pkg install composer
 pkg install git curl
 pkg install wget
+pkg install zip
 
 #If it is finished?
 printf "\nPhase 1 Finished\n"
