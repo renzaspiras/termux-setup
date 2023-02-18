@@ -16,3 +16,6 @@ keymap.set("n", "<leader>to", ":tabnew<CR>") -- open new tab
 
 -- nvim-tree
 keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>") -- toggle file explorer
+
+-- toggle terminal                                                      
+keymap.set("n", "<leader>t", ":ToggleTerm<CR>")
