@@ -15,6 +15,9 @@ pkg install git
 pkg install tree
 pkg install neofetch
 pkg install cmatrix
+pkg install composer
+pkg install git curl
+pkg install wget
 
 #If it is finished?
 printf "\nPhase 1 Finished\n"
