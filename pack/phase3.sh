@@ -12,6 +12,7 @@ npm install -g neovim
 #cargo install eureka --root ./rust_modules --version 1.6.2
 #cargo install stylua --features lua53
 pkg install stylua
+pip install python-lsp-server
 
 printf "\nConfiguring Neovim like VS Code\n"
 #lua script
