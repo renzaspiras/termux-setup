@@ -10,7 +10,8 @@ gem environment
 npm install -g neovim
 #cargo install stylua --root ./rust_modules --version 0.9.2
 #cargo install eureka --root ./rust_modules --version 1.6.2
-cargo install stylua --features lua53
+#cargo install stylua --features lua53
+pkg install stylua
 
 printf "\nConfiguring Neovim like VS Code\n"
 #lua script
