@@ -53,3 +53,4 @@ This project is provided "as is" without warranty of any kind, either express or
 
 ## Licenses
 This project is licensed under the terms of the [`MIT License`](https://opensource.org/license/mit/). Feel free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions of the license.
+See the [LICENSE](LICENSE) file for details.
