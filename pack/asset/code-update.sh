@@ -1,0 +1,1 @@
+yes | bash code-resetup.sh
